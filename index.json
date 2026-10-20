@@ -1,0 +1,11 @@
+{
+  "org": "lepture",
+  "repo": "authlib",
+  "versions": [
+    {
+      "commit": "dbf2f5c4fcb491527b7f74791caff9451c51b58c",
+      "tag": "",
+      "parsed_at": "2026-10-20T14:43:10.780349+00:00"
+    }
+  ]
+}
