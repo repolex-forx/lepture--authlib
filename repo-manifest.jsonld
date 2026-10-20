@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/lepture/authlib/commit/dbf2f5c4fcb491527b7f74791caff9451c51b58c",
       "git:hexsha": "dbf2f5c4fcb491527b7f74791caff9451c51b58c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/lepture/authlib/commit/485016a31b64e5aae93e5ce21b34517ce59ecf1d",
